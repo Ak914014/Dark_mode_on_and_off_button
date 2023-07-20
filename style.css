@@ -1,0 +1,28 @@
+button {
+
+    border-radius: 18%;
+    border: black solid 2px;
+    background-color: rgb(170, 191, 184);
+    margin-left: 45%;
+    margin-top: 10%;
+    width: 150px;
+    height: 25px;
+    position: relative;
+}
+
+#boll {
+
+    border: solid black 2px;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    left: 45.2%;
+    top: 21.9%;
+    border-radius: 50%;
+    background-color: black;
+}
+
+#heading {
+
+    margin-left: 31%;
+}
